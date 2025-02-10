@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel](https://your-solution-url.com)
+- Solution URL: [Vercel](https://tip-calculator-app-git-main-beealmightys-projects.vercel.app/)
 - Live Site URL: [Port:5500](http://127.0.0.1:5500/)
 
 ## My process
